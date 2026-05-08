@@ -1,2 +1,8 @@
-# federated-medical-ai
-Privacy-Preserving Medical Imaging using Federated Learning and Deep Learning
+# Federated Learning for Medical Imaging
+
+## Features
+- Multi-client training
+- Privacy-preserving AI
+
+## Run
+python server/server.py
